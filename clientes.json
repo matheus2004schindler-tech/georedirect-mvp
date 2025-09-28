@@ -1,0 +1,17 @@
+{
+  "demo": {
+    "redirects": {
+      "BR": "https://suaoferta.com.br",
+      "US": "https://youroffer.com/us",
+      "PT": "https://suaoferta.pt"
+    },
+    "default_url": "https://google.com"
+  },
+  "empresaX": {
+    "redirects": {
+      "BR": "https://empresaX.com.br/oferta",
+      "US": "https://empresaX.com/us"
+    },
+    "default_url": "https://empresaX.com"
+  }
+}
